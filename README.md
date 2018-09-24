@@ -7,5 +7,7 @@ for that on the ELB, hence it's disabled for now but can easily be enabled
 by uncommenting lines in the Apache config and adding the cert to the ELB.
 
 Usage:
+
 terraform init
+
 terraform apply
